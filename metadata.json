@@ -1,0 +1,7 @@
+{
+  "name": "BharatCart Admin",
+  "description": "Premium Indian E-Commerce administrative platform with AI-powered insights, real-time Rupee analytics, and local inventory management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
